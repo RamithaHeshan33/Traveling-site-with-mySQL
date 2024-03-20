@@ -7,8 +7,7 @@
     <title>About</title>
 
     <!-- swiper css link -->
-    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
     <!-- font awesome cdn link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
@@ -40,11 +39,169 @@
         <h1>About Us</h1>
     </div>
 
+    <!-- about section start -->
+        <section class="about">
+            <div class="image">
+                <img src="images/about-img.jpg" alt="">
+            </div>
+
+            <div class="content">
+                <h3>why choose us?</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident mollitia iste quasi illum ab placeat doloremque, 
+                ipsam exercitationem ipsum quidem, deserunt fuga laborum corporis aperiam commodi aliquid, nemo qui totam.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Quidem aliquid incidunt est magni voluptatem aperiam deserunt fugiat eius explicabo aspernatur.</p>
+
+                <div class="icons-container">
+
+                    <div class="icons">
+                        <i class="fas fa-map"></i>
+                        <span>top destinations</span>
+                    </div>
+
+                    <div class="icons">
+                        <i class="fas fa-hand-holding-usd"></i>
+                        <span>affordable price</span>
+                    </div>
+
+                    <div class="icons">
+                        <i class="fas fa-headset"></i>
+                        <span>24/7 guid service</span>
+                    </div>
+                </div>
+            </div>
+
+        </section>
 
 
+    <!-- about section end -->
 
 
+    <!-- review section start -->
+        <section class="reviews">
+            <div class="swiper reviews-slider">
+                <div class="swiper-wrapper">
 
+                    <div class="swiper-slider slide">
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae soluta beatae excepturi, aliquid tenetur adipisci iusto velit, 
+                        optio iste pariatur, veritatis voluptate nisi sed exercitationem omnis et quia voluptatibus numquam.</p>
+
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="images/pic-1.jpg" alt="">
+                    </div>
+
+                    <div class="swiper-slider slide">
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta placeat maiores, quibusdam consequatur, impedit aut, 
+                        fugit sit rerum accusamus modi a amet facilis velit esse distinctio? Aliquid veritatis amet odit voluptate. Assumenda labore 
+                        facilis recusandae quasi dolore. Voluptatem, sed dignissimos!.</p>
+
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="images/pic-2.jpg" alt="">
+                    </div>
+
+                    <div class="swiper-slider slide">
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias voluptatum perspiciatis
+                         cumque doloremque fuga eligendi?</p>
+
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="images/pic-3.jpg" alt="">
+                    </div>
+
+                    <div class="swiper-slider slide">
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae soluta beatae excepturi, aliquid tenetur adipisci iusto velit, 
+                        optio iste pariatur, veritatis voluptate nisi sed exercitationem omnis et quia voluptatibus numquam.</p>
+
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="images/pic-4.jpg" alt="">
+                    </div>
+
+                    <div class="swiper-slider slide">
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae soluta beatae excepturi, aliquid tenetur adipisci iusto velit, 
+                        optio iste pariatur, veritatis voluptate nisi sed exercitationem omnis et quia voluptatibus numquam.</p>
+
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="images/pic-5.jpg" alt="">
+                    </div>
+
+                    <div class="swiper-slider slide">
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum necessitatibus,
+                         quidem voluptate recusandae facere libero praesentium quisquam reiciendis molestias, blanditiis soluta. 
+                        Voluptatibus, nobis doloribus repudiandae doloremque eum libero est iure minus amet quaerat velit expedita.</p>
+
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="images/pic-6.jpg" alt="">
+                    </div>
+
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </section>
+
+    
+    <!-- Include Swiper JS -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+         document.addEventListener("DOMContentLoaded", function () {
+            // Initialize Swiper
+            var swiper = new Swiper(".swiper-container", {
+                loop: true,
+                pagination: {
+                    el: ".swiper-pagination",
+                },
+            });
+        });
+    </script>
+
+    <!-- review section end -->
 
 
 
@@ -106,9 +263,6 @@
 
     <!-- Footer section end -->
 
-
-    <!-- swiper js link -->
-    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.css"></script>
 
     <!-- custom js file link -->
     <script src="script.js"></script>
